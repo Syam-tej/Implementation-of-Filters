@@ -179,6 +179,7 @@ i) Using Laplacian Kernal
 
 
 ii) Using Laplacian Operator
+
 ![d6](https://user-images.githubusercontent.com/93427224/168208356-23d1dbc7-06a4-406c-89ec-e001cf57e672.png)
 
 
